@@ -16,8 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Contact: "contact"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -41,6 +40,7 @@ social-network-links:
   email: "orieux.psy@gmail.com"
 #  reddit: yourname
   linkedin: claire-orieux
+  doctena: Isabelle_Chalon-742147#14505
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -56,6 +56,8 @@ social-network-links:
 
 # --- General options --- #
 
+contact: "static"
+email: "orieux.psy@gmail.com"
 # Select which social network share links to show in posts
 share-links-active:
   linkedin: true
@@ -90,6 +92,7 @@ footer-link-col: "#404040"
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
+doctena-img: "/assets/img/doctena.svg"
 
 # --- Web Statistics Section --- #
 

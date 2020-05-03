@@ -108,6 +108,22 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.doctena -%}
+  <li>
+    <a href="https://en.doctena.lu/doctor/{{ site.social-network-links.doctena }}" title="Doctena">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab doctena fa-stack-2x fa-inverse">
+            {% if site.doctena-img %}
+                <img style="width:25px;margin-bottom:5px" src={{ site.doctena-img | relative_url }} />
+            {%- endif -%}
+        </i>
+      </span>
+      <span class="sr-only">Doctena</span>
+   </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.xing -%}
   <li>
     <a href="https://www.xing.com/profile/{{ site.social-network-links.xing }}" title="Xing">
@@ -119,6 +135,8 @@
    </a>
   </li>
 {%- endif -%}
+
+
 
 {%- if site.social-network-links.stackoverflow -%}
   <li>
