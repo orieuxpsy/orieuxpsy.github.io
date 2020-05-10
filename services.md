@@ -2,6 +2,7 @@
 layout: page
 title: Services psychologiques
 subtitle:   
+bigimg: /assets/img/leaves.jpg
 ---
 
 Le cabinet est situé au 51, avenue Pasteur, L-2311 Luxembourg, dans le quartier du Limpersberg (proche des transports en commun et du parking Glacis).

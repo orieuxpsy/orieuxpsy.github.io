@@ -12,11 +12,10 @@ author: Computing Impulse
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Qu'est-ce qu'un psychologue: "psy"
-  Qui suis-je: "aboutme"
-  Mon approche: "approche"
   Quand consulter: "when"
   Services: "services"
+  Qui suis-je: "aboutme"
+  Mon approche: "approche"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -206,6 +205,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
