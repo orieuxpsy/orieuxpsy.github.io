@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: CPO
+title: Accueil
 
 # Short description of your site
 description: Orieux Psychologie
@@ -12,6 +12,7 @@ author: Computing Impulse
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Qu'est-ce qu'un psychologue: "psy"
   Qui suis-je: "aboutme"
   Mon approche: "approche"
   Quand consulter: "when"
