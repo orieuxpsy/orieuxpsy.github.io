@@ -31,7 +31,7 @@ de problématiques peuvent être abordées dont voici quelques exemples :
   (croissance personnelle, remises en question, relever des défis, sortir des
   impasses, mieux vivre avec soi et les autres). <br/> <br/>
 
-Mais, au fait, qu'est-ce qu'un psychologue ?
+Au fait, qu'est-ce qu'un psychologue ?
 ---
 
 Le psychologue n'est pas un médecin. Le psychologue est un professionnel de
