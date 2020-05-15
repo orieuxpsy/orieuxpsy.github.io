@@ -2,7 +2,7 @@
 layout: page
 title: Mon approche
 subtitle:   
-bigimg: /assets/img/app3.jpg
+bigimg: /assets/img/app4.jpg
 ---
 
 Mon approche s'ancre principalement dans les modèles de la psychologie
