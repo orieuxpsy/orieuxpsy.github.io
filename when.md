@@ -2,6 +2,7 @@
 layout: page
 title: Quand consulter
 subtitle: Consulter un psychologue, un choix éclairé
+bigimg: /assets/img/when2.jpg
 ---
 
 Consulter un psychologue est un choix très personnel. Il y a autant de motifs
