@@ -41,12 +41,14 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 300px;
+  max-width: 0px;
   margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
 }
+
+.fa-inverse{color:#000;}
 
 .li {
     text-align: justify;
@@ -549,7 +551,7 @@ footer .footer-custom-content {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 150px 0;
+    padding: 100px 0 150px 0;
   }
   .intro-header .page-heading h1 {
     font-size: 80px;
