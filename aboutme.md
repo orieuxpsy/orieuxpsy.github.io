@@ -15,11 +15,11 @@ m’installer dans la région.
 
 Lors de mon parcours doctoral, j’ai travaillé deux ans en hôpital psychiatrique
 au sein d’une équipe pluridisciplinaire. Parallèlement, j’ai effectué ma thèse
-sur le délicat sujet de la fin de vie, me permettant d’approcher les enjeux
-entourant le mourant lui-même mais aussi ses proches aidants, avant d’ouvrir
-une pratique privée. Par la suite, en Europe, j’ai eu la chance de travailler
-auprès de personnes âgées en perte d’autonomie et de personnes atteintes de
-handicap mental.
+de doctorat sur le délicat sujet de la fin de vie, me permettant d’approcher
+les enjeux entourant le mourant lui-même mais aussi ses proches aidants, avant
+d’ouvrir une pratique privée. Par la suite, en Europe, j’ai eu la chance de
+travailler auprès de personnes âgées en perte d’autonomie et de personnes
+atteintes de handicap mental.
 
 Ces différentes expériences m’ont amenée à m’intéresser à l’hypnose clinique,
 outil thérapeutique qui peut être utile pour différentes problématiques et à la
