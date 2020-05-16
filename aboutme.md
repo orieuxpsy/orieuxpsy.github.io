@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 <span class="circular--portrait">
-  <img src="{{ site.baseurl }}/assets/img/me3.jpg" />
+  <img src="{{ site.baseurl }}/assets/img/me2.jpg" />
 </span>
 
 My name is Inigo Montoya. I have the following qualities:
