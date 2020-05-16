@@ -337,6 +337,11 @@ footer .footer-custom-content {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.footer-contact p {
+    margin: 10px 0;
+    text-align: center;
+}
+
 @media only screen and (min-width: 768px) {
   footer {
     padding: 20px 0;

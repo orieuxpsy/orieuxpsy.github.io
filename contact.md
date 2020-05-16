@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: Contact me
+title: Contact
 subtitle: 
 bigimg: /assets/img/contact2.jpg
 ---
