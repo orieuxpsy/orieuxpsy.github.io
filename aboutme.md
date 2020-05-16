@@ -4,7 +4,7 @@ title: Qui suis-je
 ---
 
 <span class="circular--portrait">
-  <img src="{{ site.baseurl }}/assets/img/me2.jpg" />
+  <img src="{{ site.baseurl }}/assets/img/me3.jpg" />
 </span>
 
 
