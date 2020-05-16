@@ -8,7 +8,7 @@ bigimg: /assets/img/when5.jpg
 **Consulter un psychologue, un choix éclairé**  
 ===
 
-Consulter un psychologue est un choix très personnel. Il y a autant de motifs
+Rencontrer un psychologue est un choix très personnel. Il y a autant de motifs
 de consultation qu’il y a de gens qui choisissent de consulter. Une multitude
 de problématiques peuvent être abordées dont voici quelques exemples :
 
@@ -25,8 +25,8 @@ de problématiques peuvent être abordées dont voici quelques exemples :
 - Difficultés relationnelles et interpersonnelles (couple, famille, amis,
   collègues)
 - Sentiment de découragement ou impression d’être dépassé(e) lors de
-  différentes étapes de vie et face aux défis de l’existence (enjeux culturels,
-  isolement, divorce, ruptures, vieillissement, etc.) 
+  différentes étapes de vie et face aux défis de l’existence (naissance, enjeux culturels,
+  divorce, ruptures, vieillissement, isolement, etc.) 
 - Traverser une épreuve (deuil, maladie, pertes, etc.)
 - Difficultés à gérer certaines émotions (peurs déraisonnées, chagrin
   envahissant, colère incontrôlée, etc.)
