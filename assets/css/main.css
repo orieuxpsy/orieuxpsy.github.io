@@ -319,7 +319,7 @@ footer a {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 30px;
+  margin-bottom: 4px;
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -329,7 +329,7 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  margin: 10px 0 0;
+  margin: 4px 0 0;
 }
 footer .footer-custom-content {
   text-align: center;
