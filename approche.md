@@ -16,9 +16,9 @@ Le **client** est vu comme l’**expert** de sa propre expérience et le
 thérapeute partage ses connaissances et son savoir sans prétendre détenir la
 vérité absolue. La thérapie est donc vue comme un espace de **collaboration**
 où le thérapeute et le client cherchent **ensemble** des moyens pour favoriser
-le développement de ce dernier, à le soulager de ses souffrances et à résoudre
-les impasses qui l’ont conduit à consulter. La thérapie prend la forme d’un
-dialogue interactif qui se construit à deux.
+le développement de ce dernier et à résoudre les impasses qui l’ont conduit à
+consulter. La thérapie prend la forme d’un dialogue interactif qui se construit
+à deux.
 
 Cette approche est donc relationnelle et centrée sur le client pour accompagner
 celui-ci dans le développement et l'utilisation de ses ressources. De

@@ -3,6 +3,7 @@
 var main = {
 
   bigImgEl : null,
+  bigImgHomeEl : null,
   numImgs : null,
 
   init : function() {
@@ -94,6 +95,7 @@ var main = {
   		setTimeout(function(){
                   var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
   		  $(".intro-header.big-img").prepend(img);
+          $(".intro-header.big-img-home").prepend(img);
   		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
 
 		  // after the animation of fading in the new image is done, prefetch the next one
@@ -127,6 +129,7 @@ var main = {
 
   setImg : function(src, desc) {
 	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+    $(".intro-header.big-img-home").css("background-image", 'url(' + src + ')');
 	if (typeof desc !== typeof undefined && desc !== false) {
 	  $(".img-desc").text(desc).show();
 	} else {

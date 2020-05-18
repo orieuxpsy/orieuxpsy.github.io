@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Cabinet de psychologie
-bigimg: /assets/img/sailing.jpg
+bigimghome: /assets/img/sailing.jpg
 ---
 
 Bienvenue au cabinet de psychologie
