@@ -19,9 +19,9 @@ de doctorat sur le délicat sujet de la fin de vie, me permettant d’approcher
 les enjeux entourant le mourant lui-même mais aussi ses proches aidants, avant
 d’ouvrir une pratique privée. Par la suite, en Europe, j’ai eu la chance de
 travailler auprès de personnes âgées en perte d’autonomie et de personnes
-atteintes de handicap mental.  Mon cursus universitaire et toutes ces
-expériences me permettent d’accompagner des personnes aux parcours de vie
-divers et confrontés à des difficultés variées.
+atteintes de handicap mental. Mon cursus universitaire et ces expériences me
+permettent d’accompagner des personnes aux parcours de vie divers et confrontés
+à des difficultés variées.
 
 Ces différentes expériences m’ont aussi amenée à m’intéresser à l’hypnose clinique,
 outil thérapeutique qui peut être utile pour différentes problématiques, et à la
