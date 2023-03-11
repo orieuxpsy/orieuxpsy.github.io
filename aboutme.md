@@ -27,6 +27,6 @@ Ces différentes expériences m’ont aussi amenée à m’intéresser à l’hy
 outil thérapeutique qui peut être utile pour différentes problématiques, et à la
 thérapie assistée par l’animal (dans des structures le permettant).
 
-Je suis membre de l’ordre des psychologues du Québec (OPQ) et de la société
-luxembourgeoise de psychologie (SLP).
+Je suis membre de l’ordre des psychologues du Québec (OPQ), de la société
+luxembourgeoise de psychologie (SLP) et inscrite au collège médical du Luxembourg.
 

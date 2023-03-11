@@ -5,10 +5,10 @@ subtitle:
 bigimg: /assets/img/when5.jpg
 ---
 
-**Consulter un psychologue, un choix éclairé**
+**Consulter un psychologue - psychothérapeute, un choix éclairé**
 ===
 
-Rencontrer un psychologue est un choix très personnel. Il y a autant de motifs
+Rencontrer un psychologue - psychothérapeute est un choix très personnel. Il y a autant de motifs
 de consultation qu’il y a de gens qui choisissent de consulter. Une multitude
 de problématiques peuvent être abordées dont voici quelques exemples :
 
@@ -35,10 +35,10 @@ de problématiques peuvent être abordées dont voici quelques exemples :
   (croissance personnelle, remise en question, relever des défis, sortir des
   impasses, mieux vivre avec soi et les autres). <br/> <br/>
 
-Au fait, qu'est-ce qu'un psychologue ?
+Au fait, qu'est-ce qu'un psychologue - psychothérapeute ?
 ---
 
-Le psychologue n'est pas un médecin. Le psychologue est un professionnel de
+Le psychologue - psychothérapeute n'est pas un médecin. Le psychologue est un professionnel de
 santé dont le rôle est d’accompagner et d’offrir à la personne un espace de
 parole, d’écoute empathique et confidentielle afin de lui permettre non
 seulement de repérer et comprendre ses difficultés (souffrance, vécu
