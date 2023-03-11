@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cabinet de psychologie <br> et de psychothérapie
+title: Cabinet de psychologie <br> et de <br> psychothérapie
 bigimghome: /assets/img/sailing.jpg
 ---
 
