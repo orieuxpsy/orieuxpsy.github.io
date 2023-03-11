@@ -25,3 +25,4 @@ poursuivre leur chemin. Il est donc important de rester à l’écoute de ce que
 vous ressentez en présence de votre psychologue, si vous vous sentez à l’aise
 et en confiance et, au besoin, d’en parler avec lui/elle.
 
+Les séances de psychothérapies peuvent être prises en charge en partie par la CNS sous certaines conditions. Pour plus de renseignements, vous pouvez vous référer à [leur site internet](https://cns.public.lu/fr/assure/vie-privee/sante-prevention/prestations-medicales/psychotherapie.html).
