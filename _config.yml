@@ -39,7 +39,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "orieux.psy@gmail.com"
+  email: "orieux.claire.psychotherapeute@gmail.com"
 #  reddit: yourname
   linkedin: claire-orieux
   doctena: Claire_Orieux-775286
@@ -59,7 +59,7 @@ social-network-links:
 # --- General options --- #
 
 contact: "static"
-email: "orieux.psy@gmail.com"
+email: "orieux.claire.psychotherapeute@gmail.com"
 # Select which social network share links to show in posts
 share-links-active:
   linkedin: true
