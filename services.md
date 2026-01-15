@@ -11,7 +11,7 @@ du Limpertsberg (proche des transports en commun et du parking Glacis).
 Les services s’adressent aux adultes, aux personnes atteintes de handicap mental
 et aux personnes âgées.
 
-Les rencontres se font sur rendez-vous, le lundi, mardi et jeudi. La
+Les rencontres se font sur rendez-vous, le mardi et jeudi. La
 fréquence des séances est fixée d’un commun accord et peut évoluer en fonction
 de la thérapie. Les séances sont en français.
 
